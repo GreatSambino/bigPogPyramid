@@ -1,0 +1,1 @@
+pyinstaller --name "bigPogPyramid" --onefile --icon=PogChamp_komodo.ico --noconsole --clean --add-data "PogChamp_komodo.ico;." --add-data "4Head.png;." --add-data "Jebaited.png;." --add-data "Kappa.png;." --add-data "LUL.png;." --add-data "PogChamp.png;." --add-data "ResidentSleeper.png;." --add-data "TriHard.png;." Main.py
