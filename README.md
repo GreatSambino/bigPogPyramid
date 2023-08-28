@@ -4,5 +4,5 @@ Automatically creates emote "pyramids" for Twitch chat. Also works with messagin
 Google Drive (includes single file .exe):
 https://drive.google.com/drive/folders/1Hy4TYweAODtSokhIQkM6M0T-F5v0TUbN?usp=sharing
 
-Itchi.io (distributable only):
+Itch.io (distributable only):
 https://sambinodev.itch.io/bigpogpyramid
